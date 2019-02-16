@@ -1,0 +1,821 @@
+% Encoding: UTF-8
+
+@InBook{NBERc8921,
+  pages     = {1-38},
+  title     = {Introduction to Developing Country Debt and Economic Performance, Volume 2: The Country Studies -- Argentina, Bolivia, Brazil, Mexico},
+  publisher = {University of Chicago Press, 1990},
+  year      = {1990},
+  author    = {Jeffrey D. Sachs},
+  month     = {January},
+  booktitle = {Developing Country Debt and Economic Performance, Volume 2: Country Studies—Argentina, Bolivia, Brazil, Mexico},
+  crossref  = {NBERsach90-1},
+  url       = {http://www.nber.org/chapters/c8921},
+}
+
+@InBook{NBERc9796,
+  pages     = {5-56},
+  title     = {Capital Flows to Latin America},
+  publisher = {University of Chicago Press},
+  year      = {1999},
+  author    = {Sebastian Edwards and Francisco Gil Diaz and Arminio Fraga},
+  month     = {January},
+  booktitle = {International Capital Flows},
+  crossref  = {NBERfeld99-2},
+  url       = {http://www.nber.org/chapters/c9796},
+}
+
+@InBook{NBERc12640,
+  pages     = {151-173},
+  title     = {The Role of Growth Slowdowns and Forecast Errors in Public Debt Crises},
+  publisher = {University of Chicago Press},
+  year      = {2012},
+  author    = {William Easterly},
+  month     = {February},
+  booktitle = {Fiscal Policy after the Financial Crisis},
+  crossref  = {NBERales11-1},
+  url       = {http://www.nber.org/chapters/c12640},
+}
+
+@Misc{Systemic63:online,
+  author       = {Andy Hindmoor},
+  title        = {Systemic risk was the real culprit in the 2008 financial crisis and, with banks continuing to borrow huge amounts, the dangers are still there | British Politics and Policy at LSE},
+  howpublished = {\url{http://blogs.lse.ac.uk/politicsandpolicy/systemic-risk-was-the-real-culprit-in-the-2008-financial-crisis-and-with-banks-continuing-to-borrow-huge-amounts-the-dangers-are-still-there/}},
+  month        = {Dec},
+  year         = {2013},
+  note         = {Accessed on 11/07/2018},
+}
+
+@Misc{bezemer2009,
+  author = {Bezemer, Dirk J},
+  title  = {“No One Saw This Coming”: Understanding Financial Crisis Through Accounting Models},
+  year   = {2009},
+}
+
+@Misc{wwwteleg51:online,
+  author       = {Luis Garicano},
+  title        = {The Queen asks why no one saw the credit crunch coming},
+  howpublished = {\url{http://www.telegraph.co.uk/news/uknews/theroyalfamily/3386353/The-Queen-asks-why-no-one-saw-the-credit-crunch-coming.html}},
+  month        = nov,
+  year         = {2008},
+  note         = {Accessed on 11/07/2018},
+}
+
+@Misc{Minsky73:online,
+  author       = {economist.com},
+  title        = {Minsky’s moment - Financial stability},
+  howpublished = {\url{https://www.economist.com/economics-brief/2016/07/30/minskys-moment}},
+  month        = jul,
+  year         = {2016},
+  note         = {(Accessed on 11/07/2018)},
+}
+
+@Article{Minsky1989,
+  author = {Minsky, Hyman P},
+  title  = {The financial instability hypothesis: A clarification},
+  year   = {1989},
+}
+
+@Article{Minsky1992,
+  author = {Minsky, Hyman P},
+  title  = {The financial instability hypothesis},
+  year   = {1992},
+}
+
+@Article{sy2015trends,
+  author  = {Sy, Amadou},
+  title   = {Trends and developments in African frontier bond markets},
+  journal = {Brookings Policy Paper},
+  year    = {2015},
+  volume  = {1},
+}
+
+@MastersThesis{Fiagbe2015,
+  author = {Agbemavor Korsi Fiagbe},
+  title  = {The effect of external debt on economic growth in Sub-Saharan Africa},
+  school = {University of Ghana},
+  year   = {2015},
+}
+
+@MastersThesis{Kumi2015,
+  author = {Kofi Nyarko Kumi},
+  title  = {Africa's External Debt, Its Debt Sustainability and Effects on Growth of African Countries (1960 to 2014)},
+  school = {University of Ghana},
+  year   = {2015},
+}
+
+@Article{Shittu2018,
+  author    = {Waliu Olawale Shittu and Sallahuddin Hassan and Muhammad Atif Nawaz},
+  title     = {The nexus between external debt, corruption and economic growth: evidence from five {SSA} countries},
+  journal   = {African Journal of Economic and Management Studies},
+  year      = {2018},
+  volume    = {9},
+  number    = {3},
+  pages     = {319--334},
+  month     = {sep},
+  doi       = {10.1108/ajems-07-2017-0171},
+  publisher = {Emerald},
+  url       = {https://doi.org/10.1108/ajems-07-2017-0171},
+}
+
+@Article{Ana-Mari-2007,
+  author    = {Ana-Maria Fuertes; Elena Kalotychou},
+  title     = {Optimal design of early warning systems for sovereign debt crises},
+  journal   = {International Journal of Forecasting},
+  year      = {2007},
+  volume    = {23},
+  doi       = {10.1016/j.ijforecast.2006.07.001},
+  issnp     = {0169-2070},
+  issue     = {1},
+  page      = {85--100},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.ijforecast.2006.07.001},
+}
+
+@Article{NOURIE-2010,
+  author    = {NOURIEL ROUBINI},
+  title     = {Greece Is Tip of Sovereign Debt Iceberg},
+  journal   = {New Perspectives Quarterly},
+  year      = {2010},
+  volume    = {27},
+  doi       = {10.1111/j.1540-5842.2010.01180.x},
+  issne     = {1540-5842},
+  issnp     = {0893-7850},
+  issue     = {3},
+  page      = {37--39},
+  publisher = {John Wiley and Sons},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1111/j.1540-5842.2010.01180.x},
+}
+
+@Article{J.P-1992,
+  author    = {J.P. Thomas},
+  title     = {Sovereign debt: Ignorance can be bliss},
+  journal   = {Journal of Development Economics},
+  year      = {1992},
+  volume    = {39},
+  doi       = {10.1016/0304-3878(92)90045-b},
+  issnp     = {0304-3878},
+  issue     = {2},
+  page      = {0--396},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/0304-3878(92)90045-b},
+}
+
+@Article{Marc-2008,
+  author    = {Marco Fioramanti},
+  title     = {Predicting sovereign debt crises using artificial neural networks: A comparative approach},
+  journal   = {Journal of Financial Stability},
+  year      = {2008},
+  volume    = {4},
+  doi       = {10.1016/j.jfs.2008.01.001},
+  issnp     = {1572-3089},
+  issue     = {2},
+  page      = {0--164},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.jfs.2008.01.001},
+}
+
+@Article{Danie-2010,
+  author    = {Daniel Waldenström},
+  title     = {Why does sovereign risk differ for domestic and external debt? Evidence from Scandinavia, 1938–1948},
+  journal   = {Journal of International Money and Finance},
+  year      = {2010},
+  volume    = {29},
+  doi       = {10.1016/j.jimonfin.2009.06.016},
+  issnp     = {0261-5606},
+  issue     = {3},
+  page      = {0--402},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.jimonfin.2009.06.016},
+}
+
+@Article{Marku-2012,
+  author    = {Markus Jorra},
+  title     = {The effect of IMF lending on the probability of sovereign debt crises},
+  journal   = {Journal of International Money and Finance},
+  year      = {2012},
+  volume    = {31},
+  doi       = {10.1016/j.jimonfin.2012.01.010},
+  issnp     = {0261-5606},
+  issue     = {4},
+  page      = {0--725},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.jimonfin.2012.01.010},
+}
+
+@Article{Andre-2005,
+  author    = {Andrew G. Haldane; Adrian Penalver; Victoria Saporta; Hyun Song Shin},
+  title     = {Analytics of sovereign debt restructuring},
+  journal   = {Journal of International Economics},
+  year      = {2005},
+  volume    = {65},
+  doi       = {10.1016/j.jinteco.2003.12.004},
+  issnp     = {0022-1996},
+  issue     = {2},
+  page      = {0--333},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.jinteco.2003.12.004},
+}
+
+@Article{Paol-2009,
+  author    = {Paolo Manasse; Nouriel Roubini},
+  title     = {“Rules of thumb” for sovereign debt crises},
+  journal   = {Journal of International Economics},
+  year      = {2009},
+  volume    = {78},
+  doi       = {10.1016/j.jinteco.2008.12.002},
+  issnp     = {0022-1996},
+  issue     = {2},
+  page      = {0--205},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.jinteco.2008.12.002},
+}
+
+@Book{Duffuor2009,
+  title     = {The Budget Statement and Economic Policy of the Government of Ghana for the 2009 Financial Year},
+  publisher = {President of the Republic of Ghana},
+  year      = {2009},
+  author    = {Kwabena Duffuor},
+  month     = {March},
+}
+
+@Book{Ken2018,
+  title     = {The Budget Statement and Economic Policy of the Government of Ghana for the 2018 Financial Year},
+  publisher = {President of the Republic of Ghana},
+  year      = {2018},
+  author    = {Ken Ofori-Atta},
+  month     = {Nov},
+}
+
+@Booklet{Desruelle2018,
+  title  = {Fifth and sixth reviews under the extended credit facility, request for waivers for nonobservance of performance criteria, and request for modification of performance criteria—debt sustainability analysis},
+  author = {Dominique Desruelle and Paloma Anos-Casero},
+  month  = apr,
+  year   = {2018},
+}
+
+@Book{grennes2010finding,
+  title     = {Finding the tipping point--when sovereign debt turns bad},
+  publisher = {The World Bank},
+  year      = {2010},
+  author    = {Grennes, Thomas and Caner, Mehmet and Koehler-Geib, Fritzi},
+}
+
+@Book{drakes2012threshold,
+  title     = {Threshold effects of sovereign debt: Evidence from the Caribbean},
+  publisher = {International Monetary Fund},
+  year      = {2012},
+  author    = {Drakes, Ms Lisa and Thomas, Ms Chrystol and Craigwell, Roland and Greenidge, Kevin},
+  number    = {12-157},
+}
+
+@Article{Batchelor2001,
+  author    = {Roy Batchelor},
+  title     = {How useful are the forecasts of intergovernmental agencies? The {IMF} and {OECD} versus the consensus},
+  journal   = {Applied Economics},
+  year      = {2001},
+  volume    = {33},
+  number    = {2},
+  pages     = {225--235},
+  month     = {feb},
+  doi       = {10.1080/00036840121785},
+  publisher = {Informa {UK} Limited},
+  url       = {https://doi.org/10.1080/00036840121785},
+}
+
+@Article{lof2014does,
+  author    = {Lof, Matthijs and Malinen, Tuomas},
+  title     = {Does sovereign debt weaken economic growth? A panel VAR analysis},
+  journal   = {Economics Letters},
+  year      = {2014},
+  volume    = {122},
+  number    = {3},
+  pages     = {403--407},
+  publisher = {Elsevier},
+}
+
+@Article{nersisyan2010does,
+  author = {Nersisyan, Yeva and Wray, L Randall},
+  title  = {Does Excessive Sovereign Debt Really Hurt Growth? A Critique of'This Time is Different', by Reinhart and Rogoff},
+  year   = {2010},
+}
+
+@TechReport{reinhart2008time,
+  author      = {Reinhart, Carmen M and Rogoff, Kenneth S},
+  title       = {This time is different: A panoramic view of eight centuries of financial crises},
+  institution = {National Bureau of Economic Research},
+  year        = {2008},
+}
+
+@TechReport{reinhart2010time,
+  author      = {Reinhart, Carmen M},
+  title       = {This time is different chartbook: country histories on debt, default, and financial crises},
+  institution = {National Bureau of Economic Research},
+  year        = {2010},
+}
+
+@Misc{reinhart2009time,
+  author    = {Reinhart, Carmen M and Rogoff, Kenneth},
+  title     = {This time is different},
+  year      = {2009},
+  publisher = {Princeton University Press Princeton, NJ},
+}
+
+@Book{Reinhart2009,
+  title     = {This time is different: Eight centuries of financial folly},
+  publisher = {princeton university press},
+  year      = {2009},
+  author    = {Reinhart, Carmen M and Rogoff, Kenneth S},
+}
+
+@Book{Ken2017,
+  title     = {The Budget Statement and Economic Policy of the Government of Ghana for the 2017 Financial Year},
+  publisher = {President of the Republic of Ghana},
+  year      = {2017},
+  author    = {Ken Ofori-Atta},
+  month     = {Mar},
+}
+
+@Book{Terkper2015,
+  title     = {The Budget Statement and Economic Policy of the Government of Ghana for the 2016 Financial Year},
+  publisher = {President of the Republic of Ghana},
+  year      = {2015},
+  author    = {Seth Terkper},
+  month     = {Nov},
+}
+
+@Book{Ken2017nov,
+  title     = {The Budget Statement and Economic Policy of the Government of Ghana for the 2018 Financial Year},
+  publisher = {President of the Republic of Ghana},
+  year      = {2017},
+  author    = {Ken Ofori-Atta},
+  month     = {Nov},
+}
+
+@Booklet{NEF2014,
+  title  = {National Economic Forum},
+  author = {{National Economic Forum}},
+  month  = may,
+  year   = {2014},
+}
+
+@Article{passarella2010paradox,
+  author    = {Passarella, Marco},
+  title     = {The paradox of tranquility revisited. A Lotka-Volterra model of the financial instability},
+  journal   = {Rivista italiana degli economisti},
+  year      = {2010},
+  volume    = {15},
+  number    = {1},
+  pages     = {69--104},
+  publisher = {Societ{\`a} editrice il Mulino},
+}
+
+@Article{vercelli2009perspective,
+  author = {Vercelli, Alessandro},
+  title  = {A perspective on Minsky moments: the core of the financial instability hypothesis in light of the subprime crisis},
+  year   = {2009},
+}
+
+@InCollection{vercelli2010minsky,
+  author    = {Vercelli, Alessandro},
+  title     = {Minsky moments, Russell chickens and grey swans: the methodological puzzles of financial instability analysis},
+  booktitle = {Minsky, Crisis and Development},
+  publisher = {Springer},
+  year      = {2010},
+  pages     = {15--31},
+}
+
+@PhdThesis{vadasz2007economic,
+  author = {Vadasz, Viktor},
+  title  = {Economic Motion: An Economic Application of the Lotka-Volterra Predator-Prey Model},
+  year   = {2007},
+}
+
+@InProceedings{vercelli2009theory,
+  author       = {Vercelli, Alessandro},
+  title        = {A Theory of Minsky Moments: a Restatement of the Financial Instability Hypothesis in the light of the “subprime” crisis},
+  booktitle    = {Workshop The Complexity of Financial Crisis in a Long-Period Perspective: Facts, Theory and Models, Universit{\`a} di Siena},
+  year         = {2009},
+  organization = {Citeseer},
+}
+
+@Article{rosser2017minsky,
+  author = {Rosser Jr, J Barkley},
+  title  = {THE MINSKY MOMENT AS THE REVENGE OF ENTROPY},
+  year   = {2017},
+}
+
+@MastersThesis{Darko2017,
+  author   = {Pascal Addo Darko},
+  title    = {An examination of Eurobond and Ghana's Economic Development},
+  school   = {University of Ghana},
+  year     = {2017},
+  month    = jul,
+  abstract = {Eurobond is a vital source of development finance for African economies. This is largely because of the benefits that it offers user countries which amongst other things include exclusion of conditionalities as a key requirement to subscription of much needed capital. This study seeks to identify how Eurobonds irrespective of its merits add to the debt stock of Ghana. It argues that first most Eurobonds secured are misapplied leading to a vicious cycle of debt. Also, issuance Eurobonds inversely related to the debt to GDP ratio. This study is guided by the concept of capital market liberalization which assesses the easing of restrictions on capital flows across a country’s border. The study concludes that Eurobond if not channeled into highly productive sectors of the economy consequently adds up to the public stock debt of the issuer state. The study recommends that Ghana must build macroeconomic frameworks reflecting the dimensions of new bond issues – for instance, reserve adequacy exercises to help prevent debt-servicing problems and help identify carry-costs. The establishment of sinking fund out of oil and gas proceeds to defray maturing debt is a step in the right direction. Also, it is recommended small percentage of the Eurobond proceeds are used in refinancing public debt for maximum economic benefit of the issued Eurobond. This measure is necessary if the average yield on Ghana’s issued Eurobond is to be prevented from outstripping GDP growth rates that makes interest payments.},
+}
+
+@Article{nikolaidi2017minsky,
+  author    = {Nikolaidi, Maria and Stockhammer, Engelbert},
+  title     = {Minsky models: A structured survey},
+  journal   = {Journal of Economic Surveys},
+  year      = {2017},
+  volume    = {31},
+  number    = {5},
+  pages     = {1304--1331},
+  publisher = {Wiley Online Library},
+}
+
+@Article{nikolaidi2017three,
+  author    = {Nikolaidi, Maria},
+  title     = {Three decades of modelling Minsky: what we have learned and the way forward},
+  journal   = {European Journal of Economics and Economic Policies: Intervention},
+  year      = {2017},
+  volume    = {14},
+  number    = {2},
+  pages     = {222--237},
+  publisher = {Edward Elgar Publishing Ltd},
+}
+
+@Article{asada2012modeling,
+  author    = {Asada, Toichiro},
+  title     = {Modeling financial instability},
+  journal   = {European Journal of Economics and Economic Policies: Intervention},
+  year      = {2012},
+  volume    = {9},
+  number    = {2},
+  pages     = {215--232},
+  publisher = {Edward Elgar Publishing Ltd},
+}
+
+@Article{passarella2012simplified,
+  author    = {Passarella, Marco},
+  title     = {A simplified stock-flow consistent dynamic model of the systemic financial fragility in the ‘New Capitalism’},
+  journal   = {Journal of Economic Behavior \& Organization},
+  year      = {2012},
+  volume    = {83},
+  number    = {3},
+  pages     = {570--582},
+  publisher = {Elsevier},
+}
+
+@Article{keen2013monetary,
+  author    = {Keen, Steve},
+  title     = {A monetary Minsky model of the Great Moderation and the Great Recession},
+  journal   = {Journal of Economic Behavior \& Organization},
+  year      = {2013},
+  volume    = {86},
+  pages     = {221--235},
+  publisher = {Elsevier},
+}
+
+@Article{tomz2013empirical,
+  author    = {Tomz, Michael and Wright, Mark LJ},
+  title     = {Empirical research on sovereign debt and default},
+  year      = {2013},
+  publisher = {Annual Reviews},
+}
+
+@Article{OY-2011,
+  author    = {Oya Celasun; Philipp Harms},
+  title     = {Boon or burden? The effect of private sector debt on the risk of sovereign default in developing countries},
+  journal   = {Economic Inquiry},
+  year      = {2011},
+  volume    = {49},
+  doi       = {10.1111/j.1465-7295.2010.00267.x},
+  issne     = {1465-7295},
+  issnp     = {0095-2583},
+  issue     = {1},
+  page      = {70--88},
+  publisher = {Oxford University Press},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1111/j.1465-7295.2010.00267.x},
+}
+
+@InCollection{King2008,
+  author    = {J. E. King},
+  title     = {Post Keynesian Economics},
+  booktitle = {The New Palgrave Dictionary of Economics},
+  publisher = {Palgrave Macmillan {UK}},
+  year      = {2008},
+  pages     = {1--12},
+  doi       = {10.1057/978-1-349-95121-5_1634-2},
+  url       = {https://doi.org/10.1057/978-1-349-95121-5_1634-2},
+}
+
+@Article{Prychitko2009,
+  author    = {David L. Prychitko},
+  title     = {Competing explanations of the Minsky moment: The financial instability hypothesis in light of Austrian theory},
+  journal   = {The Review of Austrian Economics},
+  year      = {2009},
+  volume    = {23},
+  number    = {3},
+  pages     = {199--221},
+  month     = {oct},
+  doi       = {10.1007/s11138-009-0097-1},
+  publisher = {Springer Nature},
+  url       = {https://doi.org/10.1007/s11138-009-0097-1},
+}
+
+@Article{gennaioli2014sovereign,
+  author    = {Gennaioli, Nicola and Martin, Alberto and Rossi, Stefano},
+  title     = {Sovereign default, domestic banks, and financial institutions},
+  journal   = {The Journal of Finance},
+  year      = {2014},
+  volume    = {69},
+  number    = {2},
+  pages     = {819--866},
+  publisher = {Wiley Online Library},
+}
+
+@Article{mendoza2012general,
+  author    = {Mendoza, Enrique G and Yue, Vivian Z},
+  title     = {A general equilibrium model of sovereign default and business cycles},
+  journal   = {The Quarterly Journal of Economics},
+  year      = {2012},
+  volume    = {127},
+  number    = {2},
+  pages     = {889--946},
+  publisher = {Oxford University Press},
+}
+
+@Article{andrade2018costs,
+  author    = {Andrade, Sandro C and Chhaochharia, Vidhi},
+  title     = {The costs of sovereign default: Evidence from the stock market},
+  journal   = {The Review of Financial Studies},
+  year      = {2018},
+  volume    = {31},
+  number    = {5},
+  pages     = {1707--1751},
+  publisher = {Oxford University Press},
+}
+
+@TechReport{d2018history,
+  author      = {D'Erasmo, Pablo and Mendoza, Enrique G},
+  title       = {History Remembered: Optimal Sovereign Default on Domestic and External Debt},
+  institution = {National Bureau of Economic Research},
+  year        = {2018},
+}
+
+@Article{navarro2018sovereign,
+  author = {Navarro, Gaston and Nicolini, Juan Pablo and Teles, Pedro and others},
+  title  = {Sovereign default: The role of expectations},
+  year   = {2018},
+}
+
+@Article{Victo-2005,
+  author    = {Victor Vaugirard},
+  title     = {Crony Capitalism and Sovereign Default},
+  journal   = {Open Economies Review},
+  year      = {2005},
+  volume    = {16},
+  month     = {01},
+  doi       = {10.1007/s11079-005-5333-0},
+  issne     = {1573-708X},
+  issnp     = {0923-7992},
+  issue     = {1},
+  page      = {77--99},
+  publisher = {Springer US},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1007/s11079-005-5333-0},
+}
+
+@Article{F-1985,
+  author    = {F. N. Burton; H. Inoue},
+  title     = {An appraisal of the early-warning indicators of sovereign loan default in country risk evaluation systems},
+  journal   = {Thunderbird International Business Review},
+  year      = {1985},
+  volume    = {27},
+  doi       = {10.1002/tie.5060270301},
+  issne     = {1520-6874},
+  issnp     = {1096-4762},
+  issue     = {3},
+  page      = {1--6},
+  publisher = {John Wiley and Sons},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1002/tie.5060270301},
+}
+
+@Article{Andrea-2010,
+  author    = {Andreas Schabert},
+  title     = {Monetary policy under a fiscal theory of sovereign default},
+  journal   = {Journal of Economic Theory},
+  year      = {2010},
+  volume    = {145},
+  doi       = {10.1016/j.jet.2009.10.013},
+  issne     = {1095-7235},
+  issnp     = {0022-0531},
+  issue     = {2},
+  page      = {860--868},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.jet.2009.10.013},
+}
+
+@Article{Jua-2010,
+  author    = {Juan Carlos Hatchondo; Leonardo Martinez; Horacio Sapriza},
+  title     = {Quantitative properties of sovereign default models: Solution methods matter},
+  journal   = {Review of Economic Dynamics},
+  year      = {2010},
+  volume    = {13},
+  doi       = {10.1016/j.red.2010.03.001},
+  issne     = {1096-0929},
+  issnp     = {1094-2025},
+  issue     = {4},
+  page      = {919--933},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.red.2010.03.001},
+}
+
+@Article{Bernard-2011,
+  author    = {Bernardo Guimaraes},
+  title     = {Sovereign default: Which shocks matter?},
+  journal   = {Review of Economic Dynamics},
+  year      = {2011},
+  volume    = {14},
+  doi       = {10.1016/j.red.2010.10.002},
+  issne     = {1096-0929},
+  issnp     = {1094-2025},
+  issue     = {4},
+  page      = {553--576},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.red.2010.10.002},
+}
+
+@Article{Faust-1995,
+  author    = {Fausto Hernandez-Trillo},
+  title     = {A model-based estimation of the probability of default in sovereign credit markets},
+  journal   = {Journal of Development Economics},
+  year      = {1995},
+  volume    = {46},
+  doi       = {10.1016/0304-3878(94)00053-f},
+  issnp     = {0304-3878},
+  issue     = {1},
+  page      = {0--179},
+  publisher = {Elsevier Science},
+  url       = {http://gen.lib.rus.ec/scimag/index.php?s=10.1016/0304-3878(94)00053-f},
+}
+
+@InProceedings{Eichengreen2002PredictingAP,
+  author = {Barry Eichengreen},
+  title  = {Predicting and Preventing Financial Crises : Where Do We Stand ? What Have We Learned ?},
+  year   = {2002},
+}
+
+@InProceedings{Eichengreen2005TheII,
+  author = {Barry Eichengreen and Kenneth Kletzer and Ashoka Mody},
+  title  = {The IMF in a World of Private Capital Markets},
+  year   = {2005},
+}
+
+@InProceedings{Cairncross2007GlobalCM,
+  author = {Alec Cairncross and Michael Bordo and Barry Eichengreen},
+  title  = {Global Capital Markets in the Long Run : A Review of Maurice Obstfeld and Alan Taylor ’ s Global Capital Markets},
+  year   = {2007},
+}
+
+@InProceedings{Bunte2018SovereignLA,
+  author = {Jonas B. Bunte},
+  title  = {Sovereign lending after debt relief},
+  year   = {2018},
+}
+
+@InProceedings{Asonuma2018TamonAU,
+  author = {Tamon Asonuma and Christoph Trebesch and Marcos Cham{\'o}n and Satyajit Chatterjee and Sergio Chodos and Oliver Jeanne and Jun Il Kim and Laurence J. Kotlikoff},
+  title  = {Sovereign Debt Restructurings: Preemptive or Post-Default},
+  year   = {2018},
+}
+
+@InProceedings{Pattillo2011ExternalDA,
+  author = {Catherine Pattillo and H{\'e}l{\`e}ne Poirson and Luca Ricci},
+  title  = {External Debt and Growth},
+  year   = {2011},
+}
+
+@InProceedings{Guimaraes2007OptimalED,
+  author = {Bernardo Guimaraes},
+  title  = {Optimal external debt and default},
+  year   = {2007},
+}
+
+@InProceedings{Yue2005SovereignDA,
+  author = {Vivian Z. Yue},
+  title  = {Sovereign Default and Debt Renegotiation},
+  year   = {2005},
+}
+
+@Article{beers2007default,
+  author  = {Beers, David T and Chambers, John},
+  title   = {Default Study: Sovereign Defaults At 26 (Year Low},
+  journal = {To Show Little Change In},
+  year    = {2007},
+}
+
+@TechReport{NBERw23975,
+  author      = {Kaminsky, Graciela L},
+  title       = {The Center and the Periphery: Two Hundred Years of International Borrowing Cycles},
+  institution = {National Bureau of Economic Research},
+  year        = {2017},
+  type        = {Working Paper},
+  number      = {23975},
+  month       = {October},
+  abstract    = {A common belief in both academic and policy circles is that capital flows to the emerging periphery are excessive and ending in crises.  One of the most frequently mentioned culprits is the cycles of monetary easing and tightening in the financial centers.  Also, many focus on the role of crises in the financial center, pointing to excess international borrowing predating crises in the financial center and global retrenchment in capital flows in its aftermath.  I re-examine these views using a newly-constructed database on capital flows spanning 200 hundred years.  Extending the study of capital flows to the first episode of financial globalization has two major advantages: During this episode, monetary policy in the financial center is constrained by the adherence to the Gold Standard, thus providing a benchmark for capital flow cycles in the absence of an active role of central banks in the financial centers. Second, panics in the financial center are rare disasters that need to be examined in a longer historical episode.  I find that boom-bust capital flow cycles in the periphery are milder in the second episode of financial globalization when the financial center follows a cyclical monetary policy.  Also, cyclical monetary policy in the financial center is far more pronounced in times of crises in the financial center, cutting short capital flow bonanzas in the periphery and injecting liquidity in the aftermath of the crisis.},
+  doi         = {10.3386/w23975},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w23975},
+}
+
+@TechReport{NBERw20675,
+  author      = {Vegh, Carlos A and Vuletin, Guillermo},
+  title       = {The Road to Redemption: Policy Response to Crises in Latin America},
+  institution = {National Bureau of Economic Research},
+  year        = {2014},
+  type        = {Working Paper},
+  number      = {20675},
+  month       = {November},
+  abstract    = {This paper analyzes the fiscal and monetary policy responses to crises in Latin America over the last 40 years.  We argue that, on average, Latin American countries have "graduated" in terms of their policy responses in the sense that they have been able to switch from procyclical to counteryclical policy responses.  This average response, however, masks a great deal of heterogeneity with some countries (such as Chile, Brazil, and Mexico) leading the graduation process and others (like Argentina and Venezuela) still showing procyclical policy responses.  We further show that countercyclical policy responses have been effective in reducing the duration and intensity of crises.  Finally, we relate our analysis to the current crisis in the Eurozone and argue that, like in many instances in Latin America, procyclical fiscal policy has increased the duration and intensity of the crisis.},
+  doi         = {10.3386/w20675},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w20675},
+}
+
+@TechReport{Fosu2007external,
+  author    = {Augustin Kwasi Fosu},
+  title     = {The external debt-servicing constraint and public expenditure composition: Evidence from African economies},
+  year      = {2007},
+  type      = {WIDER Research Paper},
+  number    = {2007/36},
+  address   = {Helsinki},
+  abstract  = {The paper explores the impact of a binding external debt-servicing constraint on the  sectoral composition of government expenditures in the economies of Africa, where this  constraint has traditionally been most prevalent. Applying seemingly unrelated  regression (SUR) to 1975-94 five-year panel data for 35 countries, the paper finds that  the implied debt service burden adversely affects the share of public spending in the  social sector, with similar impacts on education and health. Despite evidence that such a  burden might also negatively influence public investment, the deleterious implications  of debt servicing appear to be primarily a social-sector phenomenon. The partial  elasticity on the sector's expenditure share is estimated at 1.5, which is by far the  highest among all the explanatory variables considered, including external aid, whose  estimated effect on the social sector is positive but with an elasticity of only 0.2. Aid  also positively affects public investment with a similar elasticity of 0.2. Constraint on  the executive exercises significant positive and negative impacts, respectively, on capital and agricultural spending, and also appears to positively influence health  expenditure. In addition, expenditures in the social sector have been tending upward,  despite the structural adjustment programmes of the 1980s, and even prior to the Highly  Indebted Poor Countries (HIPC) Initiatives that have tended to emphasize spending in  the social sector.},
+  copyright = {http://www.econstor.eu/dspace/Nutzungsbedingungen},
+  isbn      = {9291909793=978-92-9190-979-7},
+  keywords  = {F34; H50; 330; external debt servicing; public expenditure composition; seemingly unrelated regression; African economies; Auslandsschuldendienst; \"{O}ffentliche Ausgaben; Afrika},
+  language  = {eng},
+  publisher = {The United Nations University World Institute for Development Economics Research (UNU-WIDER)},
+  url       = {http://hdl.handle.net/10419/63373},
+}
+
+@TechReport{NBERw20964,
+  author      = {Edwards, Sebastian},
+  title       = {Sovereign Default, Debt Restructuring, and Recovery Rates: Was the Argentinean “Haircut” Excessive?},
+  institution = {National Bureau of Economic Research},
+  year        = {2015},
+  type        = {Working Paper},
+  number      = {20964},
+  month       = {February},
+  abstract    = {I use data on 180 sovereign defaults to analyze what determines the recovery rate after a debt restructuring process. Why do creditors recover, in some cases, more than 90%, while in other cases they recover less than 10%? I find support for the Grossman and Van Huyk model of “excusable defaults”: countries that experience more severe negative shocks tend to have higher “haircuts” than countries that face less severe shocks. I discuss in detail debt restructuring episodes in Argentina, Chile, Uruguay and Greece. The results suggest that the haircut imposed by Argentina in its 2005 restructuring (75%) was “excessively high.” The other episodes’ haircuts are consistent with the model.},
+  doi         = {10.3386/w20964},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w20964},
+}
+
+@TechReport{NBERw12187,
+  author      = {Arslanalp, Serkan and Henry, Peter Blair},
+  title       = {Debt Relief},
+  institution = {National Bureau of Economic Research},
+  year        = {2006},
+  type        = {Working Paper},
+  number      = {12187},
+  month       = {May},
+  abstract    = {The G-8 Multilateral Debt Relief Initiative (MDRI) is the next step of the Highly Indebted Poor Countries Initiative (HIPC). There are two reasons why MDRI is unlikely to help poor countries. First, the amount of money at stake is trivial. The roughly $2 billion of annual debt payments to be relieved under MDRI amounts to roughly 0.01 percent of the GDP of the OECD countries%u2014a mere one-seventieth (1/70) of the quantity of official development assistance agreed to by world leaders on at least three separate occasions (1970, 1992, 2002). Second, the existence of debt overhang is a necessary condition for debt relief to generate economic gains. Since the world's poorest countries do not suffer from debt overhang, debt relief is unlikely to stimulate their investment and growth. The principal obstacle to investment and growth in the world%u2019s poorest countries is the fundamental inadequacy in these countries of the basic institutions that provide the foundation for profitable economic activity. In light of these facts, the MDRI may amount to a Pyrrhic victory: A symbolic win for advocates of debt relief that clears the conscience of the rich countries but leaves the real problems of the poor countries unaddressed.},
+  doi         = {10.3386/w12187},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w12187},
+}
+
+@TechReport{Quattri2012impact,
+  author    = {Maria Quattri and Kwasi Fosu},
+  title     = {On the impact of external debt and aid on public expenditure allocation in sub-Saharan Africa after the launch of the HIPC initiative},
+  year      = {2012},
+  type      = {WIDER Working Paper},
+  number    = {2012/42},
+  address   = {Helsinki},
+  abstract  = {In the wake of the current financial and economic crises, the economies of sub-Saharan Africa find themselves squeezed between likely reductions in official development assistance and the pressing challenge to eradicate poverty. Public expenditure allocation to the social sector and to public investment is constrained by the need to pursue fiscal discipline in order to avert debt distress. Within a framework of public expenditure choice, the paper investigates the impact of the external debt-servicing constraint, as well as external aid, on government expenditure allocation in sub-Saharan Africa countries after the launch of the Heavily Indebted Poor Countries Initiative. Among the findings are: (i) the debt effect, while substantially lower than existing estimates for the pre-HIPC period, remains negative for the social sector, with education expenditure funding gaps, suggesting that appropriate measures must be undertaken in order to prevent the deleterious effects of debt, particularly on the social sector. Meanwhile, the additional finding that government effectiveness favours public investment as well as spending in the social sector suggests that increased attention on governance is called for.},
+  copyright = {http://www.econstor.eu/dspace/Nutzungsbedingungen},
+  isbn      = {978-92-9230-505-5},
+  keywords  = {F34; F35; H51; H52; H54; O55; 330; SSA; HIPC; public expenditure allocation; external debt and aid; Internationale Staatsschulden; Entwicklungshilfe; Schuldenmanagement; HIPC-Initiative; Afrika s\"{u}dlich der Sahara},
+  language  = {eng},
+  publisher = {The United Nations University World Institute for Development Economics Research (UNU-WIDER)},
+  url       = {http://hdl.handle.net/10419/80927},
+}
+
+@Misc{Kruger2007Burden,
+  author    = {Malte Kr\"{u}ger and Florian Morath},
+  title     = {'Burden of debt' in HIPC countries in the light of current account statistics},
+  year      = {2007},
+  address   = {Heidelberg},
+  copyright = {http://www.econstor.eu/dspace/Nutzungsbedingungen},
+  doi       = {10.1007/s10272-007-0210-2},
+  issn      = {0020-5346},
+  journal   = {Intereconomics},
+  keywords  = {330; Auslandsverschuldung; Schuldenerlass; Leistungsbilanz; HIPC},
+  language  = {eng},
+  number    = {2},
+  pages     = {105-108},
+  publisher = {Springer},
+  url       = {http://hdl.handle.net/10419/41998},
+  volume    = {42},
+}
+
+@Misc{WorldBank2004,
+  author = {{{The World Bank}}},
+  title  = {Heavily Indebted Poor Countries Initiative Factsheet},
+  year   = {2004},
+  url    = {https://siteresources.worldbank.org/INTDEBTDEPT/DataAndStatistics/20263218/HIPC-Fact-Sheet-web.pdf},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
