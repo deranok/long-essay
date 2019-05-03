@@ -1,0 +1,136 @@
+\documentclass[a4paper, 12pt]{article}
+\author{Oppey Geoff (10423631)}
+\title{Will Ghana Default on its Sovereign Debts?}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\date{\today}
+\usepackage{hyperref}
+\usepackage[
+margin=2.0cm,
+includefoot,
+footskip=30pt,
+]{geometry}
+\usepackage{layout}
+\usepackage{apacite}
+\usepackage{setspace}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+
+\begin{document}
+	\maketitle
+	\clearpage
+	\tableofcontents
+	\newpage
+	\newpage
+	\doublespacing
+	\section{Chapter introduction}
+	In this chapter we will look at the methodology intended to be used in answering the research questions posed in Chapter 1. The path taken is as follows. First, a discussion will be made on the research paradigm. This will be followed by the research design. As it was already pointed out in Chapter 2, this work follows from \citeA{vercelli2009perspective}. We will review his work in more detail, showing how his improvements to Minsky's FIH will be applied in this work. All the research questions posed will be addressed using his work. We will then discuss the source of data and point out the main problem of the work, being that the data's time interval is too large for the methodology we will be using. Details on how the data analysis will be carried out will be shown after that. Here, we will add further improvements to the work of \citeA{vercelli2009perspective}, which will make his work easier to use in conventional software such as Microsoft Excel. The final section will offer a conclusion of the whole chapter.
+	\section{Research Paradigm}
+%	(usually qualitative, quantitative or mixed methods)
+	As pointed out earlier, this work will be mainly quantitative but there will be ample qualitative discussions to clarify the work. The reason for this is that \citeA{vercelli2009perspective} offered equations to model a mainly qualitative phenomenon. However, he did so in a way to allow for later quantitative approaches. 
+	
+	Since the work is derived from a mathematical approach to a qualitative phenomenon, we need to use a mixed approach. Using only the quantitative aspects of the work will leave out so much that the model did not take into account. The model developed by \citeA{vercelli2009perspective} was based on simplifying assumptions which, while they could be explicitly included, would distort the picture of the core of the hypothesis in which we are interested. A pure qualitative approach will also be impossible without first finding an empirical basis as a reference point.
+	
+	All these considerations were what led to the choice of a mixed approach.
+	
+	\section{Research design}
+	As pointed out earlier this work is based on the model developed by \citeA{vercelli2009perspective}. First, we will make a detailed analysis of his model and what makes it `tick'. We will continue by showing how an empirical analysis of the model will be carried out. Finally, we will show how all the research questions will be approached.
+	
+	\subsection{Examination of Vercelli's Model}
+	\citeA{vercelli2009perspective} developed a model to explain how financial fragility occurs out of the behaviour of single economic units. His work was derived directly from Minsky's Financial Instability Hypothesis (FIH). Minsky's Financial Instability Hypothesis was developed by \citeA{Minsky1992} to explain how financial crises occur. According to \citeA{Minsky1992}, to understand how financial crises occur, we must first start by considering an economy that has just recovered from a recent financial crisis. Since the memory of the recent crisis remains fresh in their minds, economic units are first very cautious of their borrowing. They will only borrow just what they know they can pay comfortably from their own future earnings. He called this stage the `Hedge' stage. As their income grows, and the good times start again, they tend to forget the past crisis. They start borrowing with less caution than before. Their borrowing now exceeds what they can pay out of their income. Even though they can pay the interest comfortably, they cannot pay off the capital without resorting to refinancing. They therefore will borrow, pay the interest as it falls due from their income but refinance to settle the capital. Minsky called this the 'Speculative' stage. As the economy progresses, economic units will start borrowing for projects which will not yield sufficient income until some very distant point in the future. Minsky called this stage the `Ponzi' stage. He named it after Charles Ponzi. At this stage more and more `Ponzi' units will accumulate on the books of the lenders and the economy will only head into another crisis. After recovery the circle will be repeated.
+	
+	\citeA{vercelli2009perspective} noted that although Minsky's classification was clear, his approach in distinguishing Speculative and Ponzi units was ambiguous. He therefore improved Minsky's classification scheme. This is discussed below.
+	
+	An economic unit's liquidity index at time t can be given by $k$:
+	
+	\begin{equation}
+		k_{it} = \frac{e_{it}}{y_{it}}\\
+	\end{equation}
+	
+	Where $e_{it}$ and $y_{it}$ represent the current realised outflows and inflows respectively.
+	
+	Similarly the solvency index, $k^{*}$ is given by:
+	
+		\begin{equation}
+			k^*_{it} = \frac{\sum_{s = 0}^{n} E[e_{it+s}] / (1 + r)^s}{\sum_{s = 0}^{n}E[y_{it+s}] / (1 + r)^s}
+		\end{equation}
+		
+	Where $E$ is the expectation function, $r$ is the nominal rate of interest and $n$ is the time horizon.
+	
+	In order to complete our understanding of Vercelli's work, we must first discuss what a Minsky moment is and how different it is from a Minsky process.
+	
+	\subsection{Minsky Moment and Minsky Process}
+	As Minsky's FIH had rejected the presumption of regularity in financial systems, his followers had coined the terms `Minsky Moment' and `Minsky Process' to describe two phases of financial crises where Minsky's FIH seem to be vindicated.
+	
+	The term `Minsky moment' was coined by one of the followers of Minsky in 1998 when the Russian debt crisis occurred. This term became very popular, even though when different economists used it, they meant quite different things. Here, we are only interested in Vercelli's understanding of Minsky's Moment.
+	
+	According to \citeA{vercelli2009perspective}, when many economists tried to state their understanding of Minsky's moment, they referred to a process that occurred over a period of time. In order to clear up the ambiguity, he stated that Minsky's moment is only a beginning of Minsky's process. Therefore the moment occurred at some fixed point in time while the process occurred over some period of time.
+	
+	We can now proceed to further our understanding of his model. Consider Figure \ref{fig:financial_fluctuations}. We analyse the liquidity and solvency index on a two dimensional grid. First, we need to establish a margin of safety, $1 - \mu$, which represents a solvency ratio so low that an economic unit does not wish to go beyond. We also assume that economic units prefer higher returns at all times.
+	
+	\begin{figure}[h]
+		\centering
+		\includegraphics*[width=0.75\textwidth]{Data/financial_fluctuations.png}
+		\caption[Financial Fluctuations]{Financial fluctuations (Source: \cite{vercelli2009perspective})}
+		\label{fig:financial_fluctuations}
+	\end{figure}
+
+	We also need to take note that beyond the liquidity line $k_t = 1$, economic units fall into liquidity problems and beyond the solvency line $k^*_t = 1$ they are virtually insolvent. Combining the liquidity and solvency lines with the margin of safety creates a graph of six region. We explore the strategies pursued by units in each of the regions.
+	
+	\begin{itemize}
+		\item Region 1: Units can increase their financial outflows more than their inflows without any liquidity troubles. Since they have a surplus of inflows, their ostensible solvency risk decreases.
+		\item Region 2: Improve returns by increasing their borrowing while decreasing the margin of safety until they reach its minimum desired value.
+		\item Region 3: Reduce the excessive risk of insolvency by reducing solvency but due to an excess of outflows over inflows, their ostensible insolvency risk continues to increase.
+		\item Region 4: Units may have succeeded in building a surplus of inflows and this minimizes the risk of insolvency.
+		
+		These four regions represent a complete financial cycle for most economic units. Other times though, the margin of safety is too small and the unit's response to liquidity problems and/or solvency risk is too weak, the financial unit may be pushed to cross the solvency barrier and become virtually insolvent. Thus finding themselves in region 5 or 6.
+		
+		
+		\item Region 5 and 6: The economic unit has to alter their responses to prevent bankruptcy. For a country such as Ghana, it can be through severe austerity or a bail-out by the IMF. If the unit is able and lucky, it may successfully shift to field 4, commencing a new financial cycle.
+	\end{itemize}
+
+	\subsection{The Feedback Between Liquidity and Solvency}
+	As we have seen from the above, there is a clear relationship between perceived liquidity and solvency which affect the behaviour of economic units, as seen from the perspective of \citeA{vercelli2009perspective}. He modeled this relationship mathematically as a set of lotka-volterra equations:
+	
+	\begin{equation}
+	\frac{\dot{k_t}}{k_t} = -\alpha[k_t^* - (1 - \mu)],
+	\end{equation}
+	\begin{equation}
+	\frac{\dot{k^*_t}}{k^*_t} = \beta(k_t - 1)
+	\end{equation}
+	
+	Where $\alpha, \beta > 0$ are rates of adjustment.
+	
+	As can be seen from the equations above, assuming the absence of a solvency ratio (in case there is no borrowing, $k^* = 0$), the liquidity ratio can increase to infinity.The economic unit cannot increase it's liquidity ratio in such a manner because the presence of borrowing has a negative effect on the liquidity of a firm, as we expect interest payments and other conditions on the loan such as a austerity conditions to impact negatively on the ability of the economic unit to generate very high liquidity in any given period. If the solvency ratio exceeds the margin of safety, we expect the economic unit to experience a drop in liquidity.
+	
+	Since the equations are linked, that is, liquidity depends on solvency and vice versa, we also need to take on the effect each has on the other. As liquidity rises to a certain level, solvency will also rise. This can be explained by alluding to the fact that since they want higher returns, their excess liquidity enables them to take more debt. Both liquidity and solvency can keep increasing till they move past the margin of safety. At that point, liquidity start to fall, therefore the economic unit may decide to reduce its leverage. The reduction in leverage has a positive impact on liquidity. Liquidity starts to rise again and solvency also follows soon after. As one may imagine, this is only one circle after another, just like Minsky's Hypothesis. Showing that Minsky's Hypothesis that stability is destabilizing can be modeled mathematically using a simple lotka-volterra model.
+	
+	\subsection{The way forward}
+	We can then proceed to considering how our research objectives may be met using the model developed by \citeA{vercelli2009perspective}.
+	
+	Let us begin with the first objective. Our first objective was to find out whether Ghana's borrowing follows a Minsky Process. To do this, we will have to find out how well the model describes the data. So we will first find the best parameters for the model, given the data and proceed to find the $R^2$ or goodness of fit. If the goodness of fit is high enough (here, I adopt a threshold of 80\%), then we can be confident in the model, else we reject the model. This can be formulated a null hypothesis test:
+	
+		\begin{equation*}
+		H_0: R^2 \leq 80\%
+		\end{equation*}
+		\begin{equation*}
+		H_a: R^2 > 80\%
+		\end{equation*}
+		
+	The second objective depends on the results of the first. Depending on whether the model provides a good explanation for the data, we will either find Ghana's stage in the process (please refer to Figure \ref{fig:financial_fluctuations}). By this, we mean what region can Ghana be located?. If the model does not provide a good fit for the data, then any such endeavours as have been pointed to will be inappropriate therefore a consideration of the reason behind the failure will be made.
+	
+	For the third objective, we will like to find out the probability of default. To tackle this objective, we cannot simply rely on the Region that Ghana finds itself in Vercelli's grid (assuming the model was good enough). Sovereign defaults depend on a large number of factors. Most of which are not given explicitly in the model. In fact some can defy any rigorous mathematical modeling. For example, the final decision to default ultimately rests on the Government, that is the policymakers. Their decisions also depend on a lot of other factors such as their perception of how the populace may decide on voting for or against them in the next election. Also, multilateral agencies can suddenly decide to grant new debt forgiveness grants, such as was done in the Paris Club agreements. Some things are just time and chance. Therefore in order to proceed, we shall rely on extensive discussions on the conditions that can or may occur which can cause Ghana to default on its sovereign debt.
+	\section{Sources of data}
+	Data will be collected from the World Bank World Development Index database. Of interest are the revenue and expenditure in foreign income. We will rely on the import revenue and export expenditure of the country to provide a proxy. Also, we need to consider interest payments, new debt issues and aid and grants. We shall not include debt forgiveness grants and other inflows that represents salvation from a technical default. Further discussion on such matters are provided in the next chapter.
+	\section{Mode and instruments for data analyses}
+	Data analysis will be carried out primarily in APT-MCMC \cite{zhang2018apt}. Which will be used to estimate the parameters of the model. Primarily to satisfy the first objective. The second objective will be carried out in Microsoft Excel.
+	\section{Chapter conclusion}
+	In this chapter we discussed Vercelli's model and how we are going to pass to empirical verification. We also explained how each of the objectives we have are going to be tackled in the next chapter.	
+	\newpage
+	\singlespacing
+	\bibliographystyle{apacite}	
+	\bibliography{references.bib}
+\end{document}
